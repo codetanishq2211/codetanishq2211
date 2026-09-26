@@ -1,57 +1,201 @@
-# ⚡ TANISHQ KUMAR — AI/ML CYBER LAB
+<div align="center">
 
-> **2nd Year AIML Student · Python Developer · Flutter Developer · AI/ML Builder**
+⚡ TANISHQ KUMAR
+
+TANISHQ@AI-LAB:~$
+
+2nd Year AIML Student • AI/ML Enthusiast • Python Developer • Flutter Developer
+
+<p>
+  <a href="https://codetanishq2211.github.io">
+    <img src="https://img.shields.io/badge/%E2%96%B6%20ENTER%20CYBER%20LAB-00E5FF?style=for-the-badge&logo=github&logoColor=black" alt="Enter Cyber Lab">
+  </a>
+  <a href="https://github.com/codetanishq2211">
+    <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/tanishq-kumar-348356381">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+Turning ideas, data and algorithms into real-world impact.
+
+</div>
+
+01 // SYSTEM PROFILE
+
+┌──────────────────────────────────────────────────────────────┐
+│  TANISHQ@AI-LAB:~$ ./whoami                                 │
+├──────────────────────────────────────────────────────────────┤
+│  NAME        : Tanishq Kumar                                │
+│  LEVEL       : 2nd Year AIML Student                        │
+│  FOCUS       : Artificial Intelligence / Machine Learning    │
+│  BUILD       : Python • Flutter • FastAPI                   │
+│  MODE        : Learn → Build → Test → Improve               │
+│  STATUS      : ONLINE                                        │
+└──────────────────────────────────────────────────────────────┘
+
+ABOUT_ME
+
+I'm a 2nd-year AIML student interested in Artificial Intelligence, Machine Learning and real-world application development.
+
+I like learning by building — from AI/ML experiments and backend APIs to Flutter applications and hackathon prototypes.
+
+> AI / Machine Learning
+> Python Development
+> Flutter Application Development
+> FastAPI / Backend APIs
+> Hackathon Projects
+> Exploring Generative AI
+
+02 // TECH_STACK
+
+Languages
+
+Python Dart C++ Java
+
+AI / ML
+
+Machine Learning Deep Learning NLP Data Science Generative AI
+
+Development
+
+Flutter FastAPI Node.js REST APIs SQLite
+
+Tools
+
+Git GitHub VS Code Postman
+
+03 // PROJECT_DATABASE
+
+PROJECT
+
+DESCRIPTION
+
+STACK
+
+🛡️ Medshuraksha-2.0
+
+Medicine verification application exploring barcode-based drug information and verification workflows.
+
+Flutter · FastAPI · Python
+
+🧠 SkillMeasure
+
+Resume-based skill assessment platform with AI-oriented analysis, quizzes and coding evaluation.
+
+Python · FastAPI · JavaScript
+
+🏆 SIH80
+
+Smart India Hackathon project workspace for a real-world problem statement solution.
+
+Python · AI/ML
+
+📊 Social-Media-Sentiments
+
+Machine-learning project for sentiment classification of social-media text.
+
+Python · ML
+
+🎨 Craftlink_AI
+
+Flutter-based AI marketplace concept for connecting marginalized artisans with customers.
+
+Flutter · AI · Firebase
+
+⚙️ resume-skill-assessment-backend
+
+Backend services for an AI-powered resume skill assessment workflow.
+
+Python · FastAPI
+
+Open the repositories
+
+<p>
+<a href="https://github.com/codetanishq2211/Medshuraksha-2.0">🛡️ Medshuraksha</a> •
+<a href="https://github.com/codetanishq2211/skillmeasure">🧠 SkillMeasure</a> •
+<a href="https://github.com/codetanishq2211/SIH80">🏆 SIH80</a>
+<br>
+<a href="https://github.com/codetanishq2211/Social-Media-Sentiments">📊 Social Sentiments</a> •
+<a href="https://github.com/codetanishq2211/Craftlink_AI">🎨 Craftlink AI</a> •
+<a href="https://github.com/codetanishq2211/resume-skill-assessment-backend">⚙️ Resume Backend</a>
+</p>
+
+04 // CURRENTLY_LEARNING
+
+[█████████░] Advanced Machine Learning
+[████████░░] Generative AI / LLM Applications
+[███████░░░] Computer Vision
+[███████░░░] MLOps & Model Deployment
+[████████░░] End-to-End AI Applications
+
+05 // HACKATHON_MODE
+
+┌──────────────────────────────────────────────────────────────┐
+│  HACKATHON ENGINE                                            │
+├──────────────────────────────────────────────────────────────┤
+│  ✓ Smart India Hackathon — SIH 2026                         │
+│  ✓ AI/ML problem-solving                                    │
+│  ✓ Rapid prototyping                                        │
+│  ✓ Building practical applications                          │
+└──────────────────────────────────────────────────────────────┘
+
+06 // GITHUB_ACTIVITY
 
 <div align="center">
 
-### `TANISHQ@AI-LAB:~$ ./enter_cyber_lab`
+<a href="https://github.com/codetanishq2211">
+  <img src="https://github-readme-stats.vercel.app/api?username=codetanishq2211&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=8B5CFF&text_color=C7EAF2" alt="Tanishq GitHub Stats">
+</a>
+
+<br>
+
+<a href="https://github.com/codetanishq2211">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codetanishq2211&theme=transparent&hide_border=true&ring=00E5FF&fire=8B5CFF&currStreakLabel=00E5FF" alt="GitHub Streak">
+</a>
+
+</div>
+
+07 // CYBER LAB
+
+Want the full interactive dashboard?
+
+<div align="center">
 
 <a href="https://codetanishq2211.github.io">
-  <img src="https://img.shields.io/badge/ENTER%20CYBER%20LAB-00E5FF?style=for-the-badge&logo=github&logoColor=black" alt="Enter Cyber Lab">
+  <img src="https://img.shields.io/badge/⚡%20LAUNCH%20INTERACTIVE%20CYBER%20LAB-00F0FF?style=for-the-badge&labelColor=02060B&logo=github&logoColor=00F0FF" alt="Launch Cyber Lab">
 </a>
 
 <br><br>
 
-**The profile README stays lightweight. The button opens the real interactive dashboard.**
+[ HOME ] → [ PROJECTS ] → [ SKILLS ] → [ ACHIEVEMENTS ] → [ CONTACT ]
 
 </div>
 
----
+The Cyber Lab is the full HTML/CSS/JavaScript portfolio. The GitHub README acts as the terminal-style entry point, while the linked GitHub Pages site provides the interactive dashboard.
 
-## `01 // PROFILE`
+08 // CONNECT
 
-- 🤖 AI / Machine Learning enthusiast
-- 🐍 Python developer
-- 📱 Flutter developer
-- 🧪 Building real-world AI applications
-- 🚀 Learning through projects and hackathons
+<div align="center">
 
-## `02 // PROJECTS`
+<a href="https://github.com/codetanishq2211">GitHub</a> •
+<a href="https://www.linkedin.com/in/tanishq-kumar-348356381">LinkedIn</a> •
+<a href="mailto:tanishqkr2006@gmail.com">Email</a>
 
-| Project | Open |
-|---|---|
-| Medshuraksha-2.0 | [GitHub](https://github.com/codetanishq2211/Medshuraksha-2.0) |
-| SkillMeasure | [GitHub](https://github.com/codetanishq2211/skillmeasure) |
-| SIH80 | [GitHub](https://github.com/codetanishq2211/SIH80) |
-| Social-Media-Sentiments | [GitHub](https://github.com/codetanishq2211/Social-Media-Sentiments) |
-| Craftlink_AI | [GitHub](https://github.com/codetanishq2211/Craftlink_AI) |
-| resume-skill-assessment-backend | [GitHub](https://github.com/codetanishq2211/resume-skill-assessment-backend) |
+<br><br>
 
-## `03 // STACK`
+tanishq@ai-lab:~$ echo "BUILD • LEARN • IMPROVE • REPEAT"
+> BUILD • LEARN • IMPROVE • REPEAT
 
-`Python` `Dart` `C++` `Java` `Machine Learning` `Deep Learning` `NLP` `FastAPI` `Node.js` `Flutter` `Git` `GitHub`
+</div>
 
-## `04 // CONNECT`
+<div align="center">
 
-- [GitHub](https://github.com/codetanishq2211)
-- [LinkedIn](https://www.linkedin.com/in/tanishq-kumar-348356381)
-- [Email](mailto:tanishqkr2006@gmail.com)
+SYSTEM_STATUS: ONLINE
 
----
+Thanks for visiting my profile.
 
-### SYSTEM NOTE
+KEEP BUILDING  |  KEEP LEARNING  |  KEEP IMPROVING
 
-GitHub profile READMEs are rendered as GitHub-flavored Markdown/HTML, so they cannot behave like a full custom JavaScript application. This README therefore acts as the **entry terminal**, while the linked GitHub Pages site is the actual interactive cyber dashboard. GitHub Pages supports HTML, CSS and JavaScript directly from a repository.
-
-**Deploy the site repository as:** `codetanishq2211.github.io`
-
+</div>
